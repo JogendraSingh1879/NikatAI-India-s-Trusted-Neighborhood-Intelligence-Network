@@ -361,7 +361,8 @@ Open-source components released separately may use their own respective licenses
 
 ## Website
 
-Coming Soon
+NikatAILink 1(https://nikatai-demo.netlify.app/)
+NikatAI Link 2(https://js-nikatai.netlify.app/)
 
 ---
 
