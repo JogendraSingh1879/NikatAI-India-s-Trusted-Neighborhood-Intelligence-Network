@@ -361,8 +361,10 @@ Open-source components released separately may use their own respective licenses
 
 ## Website
 
-NikatAILink 1(https://nikatai-demo.netlify.app/)
-NikatAI Link 2(https://js-nikatai.netlify.app/)
+NikatAILink 1
+(https://nikatai-demo.netlify.app/)
+NikatAI Link 2
+(https://js-nikatai.netlify.app/)
 
 ---
 
@@ -404,4 +406,13 @@ AI Business Analyst | Product Builder | Generative AI Enthusiast
 
 ⭐ If you like our vision, consider starring this repository.
 
+Copyright (c) 2026 NikatAI Technologies Pvt. Ltd.
+
+All rights reserved.
+
+This repository and its contents are proprietary and confidential.
+
+No part of this software may be copied, modified, distributed,
+published, sublicensed, or used without prior written permission
+from NikatAI Technologies Pvt. Ltd.
 </div>
